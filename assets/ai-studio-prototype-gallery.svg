@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">AI Studio prototype overview gallery</title>
+  <desc id="desc">A synthetic public-safe gallery of AI Studio prototype themes.</desc>
+  <rect width="1280" height="720" fill="#f5f7fb"/>
+  <text x="64" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#15171a">AI Studio Prototype Overviews</text>
+  <text x="64" y="108" font-family="Arial, sans-serif" font-size="18" fill="#59616d">Creative tools, personal systems, visual interfaces, and architecture critique notes.</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="64" y="158" width="360" height="430" rx="12" fill="#ffffff" stroke="#cfd6df"/>
+    <text x="96" y="210" font-size="25" font-weight="700" fill="#15171a">FaceSwap Studio</text>
+    <text x="96" y="242" font-size="16" fill="#4d5560">Consent-first creative identity workflow.</text>
+    <circle cx="170" cy="360" r="70" fill="#d8e9ff" stroke="#2f5d8c" stroke-width="4"/>
+    <circle cx="294" cy="360" r="70" fill="#fde7d7" stroke="#c36b35" stroke-width="4"/>
+    <path d="M224 360 C238 330 252 330 266 360 C252 390 238 390 224 360 Z" fill="#ffffff" stroke="#59616d" stroke-width="3"/>
+    <text x="96" y="508" font-size="15" fill="#4d5560">Reference input, style analysis, review loop, abuse boundary.</text>
+
+    <rect x="460" y="158" width="360" height="198" rx="12" fill="#ffffff" stroke="#cfd6df"/>
+    <text x="492" y="206" font-size="23" font-weight="700" fill="#15171a">POKE Weather</text>
+    <text x="492" y="238" font-size="16" fill="#4d5560">Playful weather utility with animated state.</text>
+    <circle cx="735" cy="270" r="38" fill="#ffd45d"/>
+    <path d="M528 284 C550 250 594 252 612 286 C632 286 648 300 648 318 L510 318 C506 302 514 290 528 284 Z" fill="#cfe3ff" stroke="#7ba6d9" stroke-width="3"/>
+
+    <rect x="460" y="390" width="360" height="198" rx="12" fill="#ffffff" stroke="#cfd6df"/>
+    <text x="492" y="438" font-size="23" font-weight="700" fill="#15171a">AVA OS</text>
+    <text x="492" y="470" font-size="16" fill="#4d5560">Personal intelligence dashboard patterns.</text>
+    <rect x="498" y="506" width="92" height="42" rx="8" fill="#e9eef5"/>
+    <rect x="610" y="506" width="92" height="42" rx="8" fill="#dff5e7"/>
+    <rect x="722" y="506" width="58" height="42" rx="8" fill="#fde7d7"/>
+
+    <rect x="856" y="158" width="360" height="198" rx="12" fill="#ffffff" stroke="#cfd6df"/>
+    <text x="888" y="206" font-size="23" font-weight="700" fill="#15171a">Archisys</text>
+    <text x="888" y="238" font-size="16" fill="#4d5560">System-design critique and failure modes.</text>
+    <rect x="900" y="278" width="92" height="44" rx="6" fill="#e9eef5"/>
+    <rect x="1014" y="278" width="92" height="44" rx="6" fill="#e9eef5"/>
+    <line x1="992" y1="300" x2="1014" y2="300" stroke="#2f5d8c" stroke-width="4"/>
+
+    <rect x="856" y="390" width="360" height="198" rx="12" fill="#ffffff" stroke="#cfd6df"/>
+    <text x="888" y="438" font-size="23" font-weight="700" fill="#15171a">Visual Interfaces</text>
+    <text x="888" y="470" font-size="16" fill="#4d5560">Ideaspace, Vision Canva, Proactive AI UI.</text>
+    <circle cx="944" cy="528" r="18" fill="#2f5d8c"/>
+    <circle cx="1036" cy="500" r="18" fill="#e0a43a"/>
+    <circle cx="1114" cy="546" r="18" fill="#55a06a"/>
+    <line x1="960" y1="524" x2="1020" y2="504" stroke="#95a1af" stroke-width="3"/>
+    <line x1="1052" y1="506" x2="1098" y2="540" stroke="#95a1af" stroke-width="3"/>
+  </g>
+</svg>
