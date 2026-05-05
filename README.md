@@ -4,6 +4,10 @@ Curated public notes for AI Studio prototypes exploring creative tools, personal
 
 This repository is documentation-only. It does not contain production source code, credentials, private screenshots, customer data, raw exports, or live operational files.
 
+## Primary Creative Prototype
+
+[FaceSwap Studio](prototypes/faceswap-studio.md) is the lead creative AI project in this collection. It is represented here as part of the broader AI Studio prototype set rather than as a separate profile feature.
+
 ## Prototype Index
 
 | Prototype | Theme | Status | Notes |

@@ -2,7 +2,7 @@
 
 | Prototype | Primary question tested | Strongest signal | Production gap |
 |---|---|---|---|
-| FaceSwap Studio | Can identity reference, pose/style analysis, and generation be shaped into a controlled creative workflow? | Creative AI product intent | Consent boundaries, server-side model calls, upload privacy |
+| FaceSwap Studio | Can identity reference, pose/style analysis, and generation be shaped into a controlled creative workflow? | Lead creative AI prototype, consent-sensitive workflow design | Consent boundaries, server-side model calls, upload privacy |
 | POKE Weather | Can a simple data utility become memorable through visual language? | Taste, speed, playful UI | Data reliability, accessibility, API boundary |
 | AVA OS | Can a personal dashboard combine system health, graph context, and conversational planning? | Product imagination and information architecture | Real data connectors, persistence, privacy controls |
 | Ideaspace | Can abstract ideas become explorable spatial knowledge maps? | 3D interaction and conceptual UI | Navigation clarity, performance, prompt consistency |
@@ -13,4 +13,3 @@
 | Elvis The Bulldog | Can a character interface feel responsive and entertaining? | Fast playful prototyping | Voice/session safety, content boundaries |
 | ThreatLens | Can security/failure-mode simulations be visualized? | Failure-mode curiosity | Needs deeper real security modeling to be featured |
 | AVA Demo | Can a terminal-style assistant represent a personal system? | Early AVA interaction direction | Superseded by AVA OS / stronger assistant concepts |
-
