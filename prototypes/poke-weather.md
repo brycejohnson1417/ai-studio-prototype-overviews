@@ -1,6 +1,7 @@
 # POKE Weather
 
 Source repo: [POKE-WEATHER](https://github.com/brycejohnson1417/POKE-WEATHER)  
+Live demo: [pokeweather-live.vercel.app](https://pokeweather-live.vercel.app)  
 AI Studio link: [open prototype](https://ai.studio/apps/d0fbcb67-7112-4212-ba34-26275fc4b29c)  
 Status: active concept
 
@@ -17,7 +18,7 @@ POKE Weather tests whether a basic utility can feel memorable through theme, ani
 
 ## Key Boundary
 
-This is a light visual prototype, not an operational weather product. Public demos should avoid private API keys and should make data-source limits clear.
+This is a light visual prototype, not an operational weather product. The current public demo does not require a Gemini key or private API key; keep any future private-key usage out of browser-visible Vite variables.
 
 ## What Would Make It Production-Ready
 
@@ -26,4 +27,3 @@ This is a light visual prototype, not an operational weather product. Public dem
 - Accessibility pass.
 - Mobile layout review.
 - Themed screenshots or short clip.
-
