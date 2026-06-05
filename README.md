@@ -1,20 +1,15 @@
 # AI Studio Prototype Overviews
 
-Curated public notes for AI Studio prototypes exploring creative tools, personal agents, visual interfaces, and system-design workflows.
+Curated public notes for AI Studio prototypes exploring personal agents, visual interfaces, knowledge tools, and system-design workflows.
 
 This repository is documentation-only. It does not contain production source code, credentials, private screenshots, customer data, raw exports, or live operational files.
 
 ![AI Studio prototype overview gallery](assets/ai-studio-prototype-gallery.svg)
 
-## Primary Creative Prototype
-
-[FaceSwap Studio](prototypes/faceswap-studio.md) is the lead creative AI project in this collection. It is represented here as part of the broader AI Studio prototype set rather than as a separate profile feature.
-
 ## Prototype Index
 
 | Prototype | Theme | Status | Notes |
 |---|---|---|---|
-| [FaceSwap Studio](prototypes/faceswap-studio.md) | Consent-first creative identity and style-transfer workflow | Active concept | Most intentional creative AI prototype in this set |
 | [POKE Weather](prototypes/poke-weather.md) | Playful animated weather interface | Active concept | Lightweight visual build with personality |
 | [AVA OS](prototypes/ava-os.md) | Personal AI dashboard and knowledge interface | Active concept | Personal intelligence, graph, interview, and onboarding modes |
 | [Ideaspace](prototypes/ideaspace.md) | 3D knowledge explorer | Active concept | Concept mapping into an interactive visual world |

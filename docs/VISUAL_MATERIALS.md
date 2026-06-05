@@ -6,7 +6,6 @@ This repository uses synthetic visual materials to group prototype concepts with
 
 | Prototype Area | Visual Treatment |
 |---|---|
-| FaceSwap Studio | Consent-first creative identity workflow represented with abstract reference and output panels. |
 | POKE Weather | Public live source repo handles the real screenshot; this overview keeps a simple concept tile. |
 | AVA OS | Dashboard system represented with abstract modules. |
 | Archisys | Architecture critique represented with generic system blocks. |

@@ -3,16 +3,20 @@
   <desc id="desc">A synthetic public-safe gallery of AI Studio prototype themes.</desc>
   <rect width="1280" height="720" fill="#f5f7fb"/>
   <text x="64" y="72" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#15171a">AI Studio Prototype Overviews</text>
-  <text x="64" y="108" font-family="Arial, sans-serif" font-size="18" fill="#59616d">Creative tools, personal systems, visual interfaces, and architecture critique notes.</text>
+  <text x="64" y="108" font-family="Arial, sans-serif" font-size="18" fill="#59616d">Knowledge tools, personal systems, visual interfaces, and architecture critique notes.</text>
 
   <g font-family="Arial, sans-serif">
     <rect x="64" y="158" width="360" height="430" rx="12" fill="#ffffff" stroke="#cfd6df"/>
-    <text x="96" y="210" font-size="25" font-weight="700" fill="#15171a">FaceSwap Studio</text>
-    <text x="96" y="242" font-size="16" fill="#4d5560">Consent-first creative identity workflow.</text>
-    <circle cx="170" cy="360" r="70" fill="#d8e9ff" stroke="#2f5d8c" stroke-width="4"/>
-    <circle cx="294" cy="360" r="70" fill="#fde7d7" stroke="#c36b35" stroke-width="4"/>
-    <path d="M224 360 C238 330 252 330 266 360 C252 390 238 390 224 360 Z" fill="#ffffff" stroke="#59616d" stroke-width="3"/>
-    <text x="96" y="508" font-size="15" fill="#4d5560">Reference input, style analysis, review loop, abuse boundary.</text>
+    <text x="96" y="210" font-size="25" font-weight="700" fill="#15171a">Ideaspace</text>
+    <text x="96" y="242" font-size="16" fill="#4d5560">3D knowledge explorer for concept maps.</text>
+    <circle cx="170" cy="350" r="34" fill="#2f5d8c"/>
+    <circle cx="276" cy="300" r="26" fill="#e0a43a"/>
+    <circle cx="304" cy="426" r="30" fill="#55a06a"/>
+    <circle cx="206" cy="442" r="22" fill="#8d6ccf"/>
+    <line x1="190" y1="340" x2="254" y2="310" stroke="#95a1af" stroke-width="4"/>
+    <line x1="290" y1="324" x2="302" y2="396" stroke="#95a1af" stroke-width="4"/>
+    <line x1="280" y1="430" x2="226" y2="440" stroke="#95a1af" stroke-width="4"/>
+    <text x="96" y="508" font-size="15" fill="#4d5560">Spatial navigation, graph structure, interaction design.</text>
 
     <rect x="460" y="158" width="360" height="198" rx="12" fill="#ffffff" stroke="#cfd6df"/>
     <text x="492" y="206" font-size="23" font-weight="700" fill="#15171a">POKE Weather</text>
